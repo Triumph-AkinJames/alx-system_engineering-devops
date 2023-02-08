@@ -9,4 +9,5 @@ mv is used to move files or directories to another directory.
 rm is used to delete files.
 rm -r is used to delete directories.
 cd - is used to go to the previous directory.
-ls -la . ../boot. 
+ls -la . ../boot.
+file /tmp/iamafile 
