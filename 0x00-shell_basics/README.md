@@ -7,3 +7,4 @@ ls -na to list current directory contents with hidden files and with user and gr
 mkdir tmp/x creates x directory inside tmp directory.
 mv is used to move files or directories to another directory.
 rm is used to delete files.
+rm -r is used to delete directories.
