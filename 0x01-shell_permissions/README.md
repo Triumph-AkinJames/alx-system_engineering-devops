@@ -10,3 +10,7 @@ chmod 007 hello
 chmod 753 hello
 chmod -R +X .
 mkdir -m 751 my_dir
+chown vincent:staff *
+chown -h vincent:staff _hello
+chown --from=guillaume betty hello
+telnet towel.blinkenlights.nl
