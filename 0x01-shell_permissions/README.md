@@ -1,0 +1,1 @@
+Sudo -l betty
