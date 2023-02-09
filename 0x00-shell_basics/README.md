@@ -10,4 +10,6 @@ rm is used to delete files.
 rm -r is used to delete directories.
 cd - is used to go to the previous directory.
 ls -la . ../boot.
-file /tmp/iamafile 
+file /tmp/iamafil
+ln /bin/ls __ls__
+cp -u *.html .. 
