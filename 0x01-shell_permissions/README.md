@@ -8,3 +8,5 @@ chmod 754 hello
 chmod ugo+x hello
 chmod 007 hello
 chmod 753 hello
+chmod -R +X .
+mkdir -m 751 my_dir
