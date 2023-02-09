@@ -1,1 +1,2 @@
 Sudo -l betty
+whoami
