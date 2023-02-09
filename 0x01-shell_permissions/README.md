@@ -3,4 +3,5 @@ whoami
 id -Gn
 chown betty hello
 touch hello
-chmod u+x
+chmod u+x hello
+chmod 754 hello
